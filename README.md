@@ -62,6 +62,10 @@ PROJETO_POO_CADASTRO_IFTO/
 ├── Visitante.php      
 │
 └── README.md
+
+BD_CADASTRO_IFTO/
+│
+├── bd_cadastro_ifto.sql
 ```
 
 # 4. Hospedagem:
