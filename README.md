@@ -80,5 +80,5 @@ O código-fonte completo deste sistema encontra-se versionado e disponível publ
 
 🔗 Link do Repositório: [https://github.com/jecc-estudant/Projeto-Pratico-CRUD-com-PDO]
 
-6. Licença
+# 6. Licença:
 Este projeto é destinado estritamente para fins educacionais e acadêmicos (IFTO).
