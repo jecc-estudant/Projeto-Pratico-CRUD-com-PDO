@@ -74,7 +74,7 @@ Atendendo aos requisitos da atividade, o sistema foi publicado e encontra-se dis
 
 O código-fonte completo deste sistema encontra-se versionado e disponível publicamente.
 
-🔗 Link do Repositório: [Substitua pelo link do seu GitHub]
+🔗 Link do Repositório: [https://github.com/jecc-estudant/Projeto-Pratico-CRUD-com-PDO]
 
 6. Licença
 Este projeto é destinado estritamente para fins educacionais e acadêmicos (IFTO).
